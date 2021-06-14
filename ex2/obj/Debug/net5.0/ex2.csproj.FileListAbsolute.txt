@@ -1,0 +1,16 @@
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.exe
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.deps.json
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.dll
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ref\ex2.dll
+C:\Users\Bo\source\repos\hw5\ex2\bin\Debug\net5.0\ex2.pdb
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.csproj.AssemblyReference.cache
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.dll
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ref\ex2.dll
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.pdb
+C:\Users\Bo\source\repos\hw5\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
